@@ -1,2 +1,2 @@
-# Data_Structures_And_Algorithms
-Udacity's Data Structures And Algorithms Nanodegree
+# Udacity's Data Structures And Algorithms Nanodegree
+This program covered basic data structures, algorithms and more text to add tom...
